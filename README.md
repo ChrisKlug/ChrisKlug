@@ -1,10 +1,10 @@
 # Hey, I'm Chris Klug 👋
 
-> *Self-appointed Chief Over-Engineering Officer | Microsoft MVP | Skydiver | Conference speaker | Professional "have you considered using a graph database?" guy*
+> *Self-appointed Chief Over-Engineering Officer | Microsoft MVP | Conference speaker | Professional "have you tried .NET for that?" guy*
 
-I'm a software developer based in Stockholm 🇸🇪 with over 20 years of experience turning caffeine and keyboard clicks into working software. I've been a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/d7b970c0-3c9a-e411-93f2-9cb65495d3c4) for 15+ years, which means I've been deep in the .NET ecosystem long enough to have opinions — and I'm not afraid to share them.
+I'm a software developer based in Stockholm 🇸🇪 with over 20 years of experience turning caffeine and keyboard clicks into working software. I've been a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/d7b970c0-3c9a-e411-93f2-9cb65495d3c4) for 15+ years — and if you're wondering what that means: it means having opinions, being loud and visible, and finding a soap box to talk from. It helps if you actually know what you're talking about too, of course...
 
-When I'm not writing code, I'm probably in the air (skydiving ✈️), on the water (kitesurfing 🪁 / wing foiling 🏄), or sliding down a mountain (snowboarding 🏂). Basically, if it involves speed and a non-trivial chance of going sideways, I'm interested.
+When I'm not writing code, I'm probably on the water (wing foiling 🏄), on a trail (mountain biking ��), tinkering in my workshop (3D printing and designing 🖨️), or generally doing something that has a non-trivial chance of going sideways. If it does go sideways — even better.
 
 ---
 
@@ -15,13 +15,13 @@ My comfort zone is the .NET and Azure world, but I've been known to wander:
 - **Languages & Frameworks:** C#, .NET, ASP.NET Core, Entity Framework Core
 - **Architecture:** Domain-Driven Design, Modular Monoliths, Distributed Systems, Microservices
 - **Cloud & Infrastructure:** Azure, Kubernetes, .NET Aspire, Containers & Docker
-- **Other stuff:** Project Orleans, graph databases (Neo4j), integration testing
+- **Other stuff:** Project Orleans, integration testing, graph databases (when the shoe fits)
 
 ---
 
 ## 🎤 Conference Talks
 
-I speak regularly at conferences like [NDC](https://ndcconferences.com/), and most of my talks end up on YouTube. Here are some you can watch right now:
+I speak regularly at conferences like [NDC](https://ndcconferences.com/), [Techorama](https://techorama.be/), [SweTugg](https://www.swetugg.se/), [VS Live](https://vslive.com/), and others — and most of my talks end up on YouTube. Here are some you can watch right now:
 
 | Talk | Event |
 |---|---|
@@ -49,11 +49,11 @@ Most of my public repos are demo code from conference talks and workshops. If yo
 
 ## 📫 Find Me
 
-- 🌐 Website: [zerokoll.com](https://zerokoll.com)
+- 🌐 Blog: [fearofoblivion.com](https://fearofoblivion.com)
 - 🐦 Twitter / X: [@zerokoll](https://twitter.com/zerokoll)
 - 💼 LinkedIn: [Chris Klug](https://www.linkedin.com/in/christopherklug/)
 - 🎤 Speaker profile: [sessionize.com/zerokoll](https://sessionize.com/zerokoll)
 
 ---
 
-*"Any sufficiently advanced developer is indistinguishable from a wizard — except wizards have better documentation."* ��‍♂️
+*"Any sufficiently advanced developer is indistinguishable from a wizard — except wizards have better documentation."* 🧙‍♂️
