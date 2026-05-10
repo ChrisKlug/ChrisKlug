@@ -4,7 +4,7 @@
 
 I'm a software developer based in Stockholm 🇸🇪 with over 20 years of experience turning caffeine and keyboard clicks into working software. I've been a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/d7b970c0-3c9a-e411-93f2-9cb65495d3c4) for 15+ years — and if you're wondering what that means: it means having opinions, being loud and visible, and finding a soap box to talk from. It helps if you actually know what you're talking about too, of course...
 
-When I'm not writing code, I'm probably on the water (wing foiling 🏄), on a trail (mountain biking ��), tinkering in my workshop (3D printing and designing 🖨️), or generally doing something that has a non-trivial chance of going sideways. If it does go sideways — even better.
+When I'm not writing code, I'm probably on the water (wing foiling 🏄), on a trail (mountain biking ��), tinkering in my workshop (3D printing and designing 🖨️), or generally doing something that has a non-trivial chance of going sideways. If it does go sideways — even better. Things that fail teach you something. Things that just work... don't.
 
 ---
 
