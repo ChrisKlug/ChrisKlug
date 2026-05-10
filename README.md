@@ -21,7 +21,7 @@ My comfort zone is the .NET and Azure world, but I've been known to wander:
 
 ## 🎤 Conference Talks
 
-I speak regularly at conferences like [NDC](https://ndcconferences.com/), [Techorama](https://techorama.be/), [SweTugg](https://www.swetugg.se/), [VS Live](https://vslive.com/), and others — and most of my talks end up on YouTube. Here are some you can watch right now:
+I speak regularly at conferences like [NDC](https://ndcconferences.com/), [Techorama](https://techorama.be/), [SweTugg](https://www.swetugg.se/), [VS Live](https://vslive.com/), and others — and quite a few of my talks end up recorded online. Here are some you can watch right now:
 
 | Talk | Event |
 |---|---|
@@ -30,7 +30,7 @@ I speak regularly at conferences like [NDC](https://ndcconferences.com/), [Techo
 | ☁️ [.NET Aspire — Beyond the Introduction](https://www.youtube.com/watch?v=4bvkIajqDjQ) | NDC Copenhagen 2025 |
 | 🚀 [ASP.NET Core — Beyond the Introduction](https://www.youtube.com/watch?v=wg0MPgq1eRI) | NDC Oslo 2021 |
 
-> **Tip:** Search for *"Chris Klug NDC"* on YouTube to find more — there are quite a few of them at this point 😄
+> **Tip:** Search for *"Chris Klug"* on Google or Bing to find more — there are quite a few of them at this point 😄
 
 ---
 
@@ -51,9 +51,9 @@ Most of my public repos are demo code from conference talks and workshops. If yo
 
 - 🌐 Blog: [fearofoblivion.com](https://fearofoblivion.com)
 - 🐦 Twitter / X: [@zerokoll](https://twitter.com/zerokoll)
-- 💼 LinkedIn: [Chris Klug](https://www.linkedin.com/in/christopherklug/)
+- 💼 LinkedIn: [Chris Klug](https://www.linkedin.com/in/zerokoll/)
 - 🎤 Speaker profile: [sessionize.com/zerokoll](https://sessionize.com/zerokoll)
 
 ---
 
-*"Any sufficiently advanced developer is indistinguishable from a wizard — except wizards have better documentation."* 🧙‍♂️
+*"Any sufficiently advanced developer is indistinguishable from a wizard — except wizards have better documentation and often cooler hats."* 🧙‍♂️
