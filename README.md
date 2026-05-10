@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hey, I'm Chris Klug 👋
 
-<!--
-**ChrisKlug/ChrisKlug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Self-appointed Chief Over-Engineering Officer | Microsoft MVP | Skydiver | Conference speaker | Professional "have you considered using a graph database?" guy*
 
-Here are some ideas to get you started:
+I'm a software developer based in Stockholm 🇸🇪 with over 20 years of experience turning caffeine and keyboard clicks into working software. I've been a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/d7b970c0-3c9a-e411-93f2-9cb65495d3c4) for 15+ years, which means I've been deep in the .NET ecosystem long enough to have opinions — and I'm not afraid to share them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not writing code, I'm probably in the air (skydiving ✈️), on the water (kitesurfing 🪁 / wing foiling 🏄), or sliding down a mountain (snowboarding 🏂). Basically, if it involves speed and a non-trivial chance of going sideways, I'm interested.
+
+---
+
+## 🛠️ What I Work With
+
+My comfort zone is the .NET and Azure world, but I've been known to wander:
+
+- **Languages & Frameworks:** C#, .NET, ASP.NET Core, Entity Framework Core
+- **Architecture:** Domain-Driven Design, Modular Monoliths, Distributed Systems, Microservices
+- **Cloud & Infrastructure:** Azure, Kubernetes, .NET Aspire, Containers & Docker
+- **Other stuff:** Project Orleans, graph databases (Neo4j), integration testing
+
+---
+
+## 🎤 Conference Talks
+
+I speak regularly at conferences like [NDC](https://ndcconferences.com/), and most of my talks end up on YouTube. Here are some you can watch right now:
+
+| Talk | Event |
+|---|---|
+| 🎯 [Exposing the Not-So-Secret Practices of the Cult of DDD](https://www.youtube.com/watch?v=ucGhUU7KuaY) | NDC Oslo 2025 |
+| 🔥 [Stop Using Entity Framework as a DTO Provider!](https://www.youtube.com/watch?v=Kx6SOYTtaoU) | Various |
+| ☁️ [.NET Aspire — Beyond the Introduction](https://www.youtube.com/watch?v=4bvkIajqDjQ) | NDC Copenhagen 2025 |
+| 🚀 [ASP.NET Core — Beyond the Introduction](https://www.youtube.com/watch?v=wg0MPgq1eRI) | NDC Oslo 2021 |
+
+> **Tip:** Search for *"Chris Klug NDC"* on YouTube to find more — there are quite a few of them at this point 😄
+
+---
+
+## 📦 What's in My Repos
+
+Most of my public repos are demo code from conference talks and workshops. If you've seen me present, there's a good chance the code is here. Some highlights:
+
+- **[efcore-dto-demo](https://github.com/ChrisKlug/efcore-dto-demo)** — Demo code for *"Stop Using Entity Framework as a DTO Provider!"*
+- **[AspNetCoreBeyondTheIntro](https://github.com/ChrisKlug/AspNetCoreBeyondTheIntro)** — Code from my ASP.NET Core deep-dive talk
+- **[aspire-beyond-the-intro](https://github.com/ChrisKlug/aspire-beyond-the-intro)** — Demo code for my .NET Aspire talk
+- **[asp-net-modular-monolith](https://github.com/ChrisKlug/asp-net-modular-monolith)** — Modular monolith patterns in ASP.NET Core
+- **[K8S4DEVS](https://github.com/ChrisKlug/K8S4DEVS)** — Introduction to Kubernetes for developers
+- **[intro-to-project-orleans](https://github.com/ChrisKlug/intro-to-project-orleans)** — Getting started with actor-based development in .NET
+
+---
+
+## 📫 Find Me
+
+- 🌐 Website: [zerokoll.com](https://zerokoll.com)
+- 🐦 Twitter / X: [@zerokoll](https://twitter.com/zerokoll)
+- 💼 LinkedIn: [Chris Klug](https://www.linkedin.com/in/christopherklug/)
+- 🎤 Speaker profile: [sessionize.com/zerokoll](https://sessionize.com/zerokoll)
+
+---
+
+*"Any sufficiently advanced developer is indistinguishable from a wizard — except wizards have better documentation."* ��‍♂️
